@@ -1,11 +1,11 @@
-﻿<Properties StartupConfiguration="{8002660E-4080-49AA-998B-5F4DE820A13B}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/HomeController.cs">
+﻿<Properties StartupConfiguration="{198A9DB3-301B-405C-8117-AB979282E36E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ComicBooksController.cs">
     <Files>
-      <File FileName="Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/ComicBooksController.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.ComicBookGallery PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ComicBookGallery PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

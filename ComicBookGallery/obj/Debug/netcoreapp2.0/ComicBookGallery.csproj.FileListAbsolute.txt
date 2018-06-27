@@ -1,0 +1,4 @@
+/Users/BenNolan/projects/asp.net/comic-book-gallery/ComicBookGallery/obj/Debug/netcoreapp2.0/ComicBookGallery.csprojResolveAssemblyReference.cache
+/Users/BenNolan/projects/asp.net/comic-book-gallery/ComicBookGallery/obj/Debug/netcoreapp2.0/ComicBookGallery.csproj.CoreCompileInputs.cache
+/Users/BenNolan/projects/asp.net/comic-book-gallery/ComicBookGallery/obj/Debug/netcoreapp2.0/ComicBookGallery.AssemblyInfoInputs.cache
+/Users/BenNolan/projects/asp.net/comic-book-gallery/ComicBookGallery/obj/Debug/netcoreapp2.0/ComicBookGallery.AssemblyInfo.cs
